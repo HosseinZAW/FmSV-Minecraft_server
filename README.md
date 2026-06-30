@@ -1,7 +1,7 @@
 
 # FmSV - Minecraft Server Manager
 
-> **Fastest & easiest way to run a Minecraft server on Windows and Linux**
+> **Fastest & easiest way to run a Minecraft server on Windows and {Linux soon...}**
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.6+-green)
