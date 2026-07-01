@@ -173,9 +173,9 @@ simulation-distance=  # فاصله شبیه‌سازی بر حسب چانک
 
 
 ## 🔗 لینک‌ها
-- [مخزن گیت‌هاب](https://github.com/yourusername/FmSV)
-- [گزارش باگ](https://github.com/yourusername/FmSV/issues)
-- [درخواست ویژگی](https://github.com/yourusername/FmSV/issues)
+- [مخزن گیت‌هاب](https://github.com/hosseinzaw/FmSV)
+- [گزارش باگ](https://github.com/hosseinzaw/FmSV/issues)
+- [درخواست ویژگی](https://github.com/hosseinzaw/FmSV/issues)
 
 ---
 
