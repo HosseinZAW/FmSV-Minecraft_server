@@ -1,4 +1,5 @@
 
+
 # FmSV - Minecraft Server
 
 > **Fastest & easiest way to run a Minecraft server on Windows and {Linux soon...}**
@@ -52,7 +53,7 @@
 ## 📥 Installation
 
 ### Windows
-1. Download `FmSV.exe` from the [releases page](https://github.com/yourusername/FmSV/releases)
+1. Download `FmSV.exe` from the [releases page](https://github.com/Hosseinzaw/FmSV/releases)
 2. Place the file in your desired directory
 3. Double-click to run
 
@@ -65,7 +66,7 @@ Soon...
 
 ### Step 1: Run the Program
 ```bash
-./FmSV_1.0.exe  # Windows
+open FmSV_1.0.exe  # Windows
 ```
 
 ### Step 2: Configure Server Settings
@@ -151,16 +152,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Changelog
-
-### v1.0 (Current)
-- ✅ Initial release
-- ✅ Support for 8 server types
-- ✅ Auto Java installation
-- ✅ Interactive version selection
-- ✅ Automatic configuration
-
----
 
 ## 🔗 Links
 - [GitHub Repository](https://github.com/HosseinZAW/FmSV)
