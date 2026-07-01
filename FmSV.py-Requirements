@@ -1,1 +1,6 @@
 # requirements - FmSV.py
+urllib
+json
+os
+subprocess
+sys
